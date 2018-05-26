@@ -1,4 +1,4 @@
-print("input the funthional number to do you whant")
+print("input the functhional number to do you whant")
 names=[]
 while 2>1:
 	print("(1)add_studentname")
@@ -6,7 +6,7 @@ while 2>1:
 	print("(3)modification_studentname")
 	print("(4)search_studentname is in")
 	print("(another number)exit the pragrame")
-	key=int(input("please enter the funthional nubmer "))
+	key=int(input("please enter the functhional nubmer "))
 	#if key is not int:
 		print('you operation is false')
 		#break
