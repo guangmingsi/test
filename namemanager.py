@@ -1,6 +1,6 @@
 print("input the functhional number to do you whant")
 names=[]
-while 2>1:
+while True:
 	print("(1)add_studentname")
 	print("(2)delete_studentname")
 	print("(3)modification_studentname")
